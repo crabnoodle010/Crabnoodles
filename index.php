@@ -180,7 +180,7 @@
 									<div class="col-sm-3">
 										<ul class="multi-column-dropdown">
 											<h6>Mobiles</h6>
-											<li><a href="products.html">Mobile Phones</a></li>
+											<li><a href="index.html">admin</a></li>
 											<li><a href="products.html">Mp3 Players <span>New</span></a></li> 
 											<li><a href="products.html">Popular Models</a></li>
 											<li><a href="products.html">All Tablets<span>New</span></a></li>
